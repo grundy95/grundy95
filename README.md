@@ -1,4 +1,4 @@
-👋 Hi, I'm Thomas Grundy (Tom for short) and I'm a 3rd year statistics PhD student at the STOR-i Centre for Doctoral Training. I will be looking for work starting October 2021!
+👋 Hi, I'm Tom Grundy and I'm a 3rd year statistics PhD student at the STOR-i Centre for Doctoral Training. I will be looking for work starting October 2021!
 
 My research intrests include time series analysis; changepoint detection; high-dimensional statistics; forecasting and sequential monitoring of stochastic processes. 
 
