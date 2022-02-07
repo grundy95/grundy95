@@ -1,4 +1,4 @@
-👋 Hi, I'm Tom Grundy and I'm a data scientist at AO.com.
+👋 Hi, I'm Tom Grundy and I'm a data scientist at Peak
 
 My research intrests include time series analysis; changepoint detection; high-dimensional statistics; forecasting and sequential monitoring of stochastic processes. 
 
